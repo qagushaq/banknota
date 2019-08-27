@@ -1,0 +1,58 @@
+* {margin: 0; padding: 0 }
+body {font: 12px/18px Arial, sans-serif; width: 100%; background: url(/resource/img/bg.jpg) top center no-repeat; background-size:cover; -moz-background-size:cover; -webkit-background-size:cover}
+a {color: #fff; font-weight: bold; text-decoration:none}
+input[type=text], input[type=password], input[type=email], input[type=url] {height: 15px; width: 200px; padding: 5px; margin-bottom: 5px}
+input[type=submit], input[type=reset], .button {color: #fff; background: #D44B38; padding: 8px; border: 1px solid #A83B2D; font-weight: normal} 
+input[type=submit]:hover, input[type=reset]:hover, .button:hover  { background: #E85F4C}
+select {height:30px; margin-bottom: 5px;}
+
+textarea {resize: none}
+
+.wrapper {width: 1000px; margin: 0 auto}
+.header {width: 1000px; height: 150px; background: url(/resource/img/logo.png)}
+.content {width: 1000px; min-height: 550px; background: #fff}
+
+.MenuHead {width: 1000px; height: 60px; background: #35886E}
+.Menu {float:left; display: inline-block;  height: 20px; background: #35886E; padding: 20px; color: #fff; font-size: 20px}
+.SwchItemCurt, .SwchItem:hover , .Menu:hover, .Cat:hover {opacity: 0.5; cursor: pointer}
+
+.CatHead {width: 1000px; height: 40px; background: #A83B2D}
+.Cat {float:left; display: inline-block;  height: 10px; background: #A83B2D; padding: 10px; color: #fff; font-size: 10px}
+
+
+
+.Page {padding: 20px}
+
+
+.footer {height: 10px; background: #35886E; padding: 20px; color: #fff}
+.MessageBlock {border: 1px solid #A83B2D; background: #D44B38; padding: 10px; color: #fff}
+
+
+.capinp {max-width: 80px}
+.capimg {width: 110px; height: 30px; float: right; border: 1px solid #A83B2D}
+.capdiv {width: 215px; height: 30px}
+
+.Block {border: 1px solid #e5e5e5; background-color: #f6f6f6; padding: 10px 10px; width: 815px; height: 135px; display: table; line-height: 25px}
+.ProfileB {float: left; width: 102px; margin-top: -37px}
+.ProfileEdit{margin-top: -25px}
+
+.ChatBox {height: 300px; overflow: auto; border: 1px solid #ddddddd}
+.ChatBlock {border: 1px solid #dddddd; background: #f2f2f2; padding: 10px; color: #000000; margin: 10px}
+.ChatBlock span {color: #828282; font-size: 10px; display: block}
+.ChatMessage {width: 300px; height: 40px; resize: none; padding: 5px}
+
+.PageSelector{margin: 10px}
+.SwchItem, .SwchItemCur {padding: 2px 15px; background: #D44B38}
+.SwchItemCur{background: #35886E}
+
+
+.Add {width: 800px; height: 300px}
+.lol {color: #000}
+.Add_L {height: 200px; width: 800px}
+
+.lm {width: 220px; height: 220px; margin: 0 15px 15px 0}
+
+.Ablock1, .Ablock2 {width :450px; height: 300px; margin-bottom: 20px; border: 1px solid #A9A9A9}
+.Ablock1 {float: left}
+.Ablock2 {float: right}
+
